@@ -16,11 +16,11 @@ export const types = [
     type: "Equipment",
   },
   {
-    id: 4,
+    id: 5,
     type: "Dumbbell",
   },
   {
-    id: 4,
+    id: 6,
     type: "Skate",
   },
 ];
