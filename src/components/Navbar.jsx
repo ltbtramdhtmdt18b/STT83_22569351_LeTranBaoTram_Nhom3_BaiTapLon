@@ -54,7 +54,7 @@ const Navbar = () => {
                 </NavLink>
               </NavItem>
               <NavItem>
-                <a href="https://github.com/" target="_blank">
+                <a href="https://www.facebook.com/cahaydicoffeemotminh/" target="_blank">
                   Contact
                 </a>
               </NavItem>
